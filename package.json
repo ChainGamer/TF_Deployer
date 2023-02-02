@@ -19,7 +19,7 @@
     "cryptr": "^6.0.1",
     "express": "^4.17.1",
     "ipfs-http-client": "^40.1.0",
-    "lerna": "^3.19.0",
+    "lerna": "^6.4.1",
     "lodash": "^4.17.15",
     "morgan": "^1.9.1",
     "nodemon": "^2.0.2",
